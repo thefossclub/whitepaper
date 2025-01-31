@@ -1,7 +1,8 @@
 # The FOSS Club
 
 **Author**: Vaibhav Pratap Singh  
-**Date**: 10-10-23
+**Date**: 10-10-23 <br>
+**Last Updated on**: 31-01-2025
 
 ## Introduction
 
@@ -70,14 +71,6 @@ Our cybersecurity focus includes:
 - Web application security
 - Malware analysis and reverse engineering
 - Security auditing of open source software
-
-#### Decentralization
-We explore:
-- Blockchain and cryptocurrencies
-- Decentralized applications (DApps)
-- Peer-to-peer networks
-- Federated and distributed systems
-- Self-hosted alternatives to centralized services
 
 #### Hardware
 Our hardware focus includes:
