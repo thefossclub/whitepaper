@@ -117,7 +117,6 @@ The FOSS Club maintains different levels of membership:
 1. **Regular Members**: Active participants in club activities.
 2. **Contributing Members**: Regular contributors to projects.
 3. **Core Members**: Individuals in leadership roles.
-4. **Honorary Members**: Distinguished individuals from the FOSS community.
 
 ### Eligibility
 - All students of Delhi Technical Campus
